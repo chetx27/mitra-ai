@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+langgraph
+langchain
+langchain-groq
+openai
+supabase
+mem0ai
+python-dotenv
+pydantic
+twilio
+httpx
+groq
