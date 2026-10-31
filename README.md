@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="docs/assets/mitra-banner.svg" alt="Mitra — AI Companion" width="800"/>
-
 ## Mitra — AI Companion for Elders & Children
 
 **A voice-first, emotionally-aware AI companion built for elderly people and neurodivergent children.**  
