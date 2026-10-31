@@ -2,7 +2,7 @@
 
 <img src="docs/assets/mitra-banner.svg" alt="Mitra — AI Companion" width="800"/>
 
-# 🤝 Mitra — AI Companion for Elders & Children
+## Mitra — AI Companion for Elders & Children
 
 **A voice-first, emotionally-aware AI companion built for elderly people and neurodivergent children.**  
 Speaks 10+ Indian languages · Detects distress silently · Alerts caregivers instantly · Runs on a Raspberry Pi.
@@ -792,7 +792,7 @@ git push origin feat/your-feature-name
 
 ---
 
-## 📄 License
+## License
 
 MIT License — see [LICENSE](LICENSE) for details.
 
