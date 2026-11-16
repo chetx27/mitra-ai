@@ -749,20 +749,9 @@ See [docs/deployment.md](docs/deployment.md) for the full step-by-step guide, in
 - [ ] Scheduled morning/evening check-ins
 - [ ] WhatsApp bot as primary interface for device-less users
 
-### 🔮 v2.0 — Planned
-- [ ] Multimodal — camera for facial expression analysis
-- [ ] Proactive mode — Mitra initiates conversation based on schedule
-- [ ] Group family memory — multiple caregivers, shared upload center
-- [ ] On-device LLM (llama.cpp on Pi 5) for fully offline mode
-- [ ] iOS/Android caregiver app
-- [ ] ABDM health data integration (India health stack)
-- [ ] Multilingual RAG — retrieve in language, answer in language
-- [ ] Voice activity detection improvements (Silero VAD)
-- [ ] Longitudinal emotion trends + anomaly detection
-
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions! Please read [CONTRIBUTING.md](CONTRIBUTING.md) first.
 
